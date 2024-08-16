@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+I am Priyanshi Choudhary, working at prudential as a software engineer and pursuing my masters at boston university
